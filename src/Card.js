@@ -1,11 +1,17 @@
 import React from 'react';
 
-const Card = () => {
+const Card = ({ images }) => {
     return(
-        <>
-        <h1>hello</h1>
-        </>
+      <>
+        {images.map((img, index) => (
+            <div 
+            className="card"
+            key={index}
+            style={{ background: `url("${img.url}") no-repeat center/cover` }}
+            ></div>
+        ))}
+      </>
     );
-}
+};
 
 export default Card;
