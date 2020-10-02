@@ -18,13 +18,17 @@ const App = () => {
     }])
   }
 
+  const removeImage = () => {
+    setImages(images.slice(0, -1));
+  }
+
   return (
     <section className="hero">
       <div className="cardContainer">
         <Card images={images} />
       </div>
       <div className="btnContainer">
-        <button>Remove</button>
+        <button onClick={removeImage}>Remove</button>
         <button onClick={getNewImage}>Add</button>
       </div>
     </section>
