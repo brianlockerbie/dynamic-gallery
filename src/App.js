@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import Card from './Card';
 import './App.css';
 
 const App = () => {
@@ -14,7 +15,7 @@ const App = () => {
   return (
     <div className="App">
       <div className="cardContainer">
-        
+        <Card />
       </div>
       <div className="btnContainer">
         <button>Remove</button>
