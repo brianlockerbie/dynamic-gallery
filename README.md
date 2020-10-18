@@ -4,9 +4,9 @@
 
 
 ## 🎮 How to use
-1. Click add or remove to either add or remove up to a 100 random pictures.
+1. Click add or remove to either add or remove up to a 100 random photos.
 
-The pictures will be displayed in a Masonry layout each time.
+The photos will be displayed in a Masonry layout each time.
 
 ## 🚀 Features
 - Add or remove random photos.
