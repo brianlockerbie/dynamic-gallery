@@ -16,4 +16,4 @@ The photos will be displayed in a Masonry layout each time.
 ## 🛠 Build setup
 Clone or fork the repository
 
-1. To start a game, type "npm start" in the terminal to run the server.
+1. To start the application, type "npm start" in the terminal to run the server.
