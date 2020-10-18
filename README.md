@@ -2,6 +2,8 @@
 
 <p align="center">A Dynmamic Gallery application with a Masonry Layout</p>
 
+## 🕹 Live Demo: https://elegant-mcnulty-19fa5e.netlify.app/
+
 
 ## 🎮 How to use
 1. Click add or remove to either add or remove up to a 100 random photos.
