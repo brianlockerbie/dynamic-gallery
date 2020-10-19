@@ -2,7 +2,7 @@
 
 <p align="center">A Dynmamic Gallery application with a Masonry Layout</p>
 
-## 🕹 Live Demo: https://elegant-mcnulty-19fa5e.netlify.app/
+## 🕹 Live Demo: https://dynamic-gallery.netlify.app/
 
 
 ## 🎮 How to use
